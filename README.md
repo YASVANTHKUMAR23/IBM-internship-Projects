@@ -20,7 +20,7 @@ This repository contains two independent projects that showcase applied AI devel
 
 ### 🔧 Tech Stack
 
-* IBM cloud and IBM watsonx Auto ai.
+* IBM cloud and IBM Watsonx Auto ai, IBM Waisonx.ai.
 
 ### 🌟 Highlights
 
